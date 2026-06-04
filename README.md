@@ -12,7 +12,7 @@ Built to accompany the SilentGrid blog post: [Exploiting Android JavaScript Inte
 
 ## Usage
 Install via adb:
-\```
+```
 adb install vulnapp.apk
-\```
+```
 Then follow the walkthrough in the blog post.
