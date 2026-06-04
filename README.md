@@ -18,4 +18,6 @@ adb install vulnapp.apk
 Then follow the walkthrough in the blog post.
 https://blog.silentgrid.com/exploiting-android-javascript-interfaces/
 
+<img width="483" height="1034" alt="image" src="https://github.com/user-attachments/assets/3a99ea93-095f-4000-9550-00206a6f6192" />
+
 
