@@ -16,3 +16,6 @@ Install via adb:
 adb install vulnapp.apk
 ```
 Then follow the walkthrough in the blog post.
+https://blog.silentgrid.com/exploiting-android-javascript-interfaces/
+
+
